@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>EY</title>
+  <title>VY</title>
   
-  <subtitle>Even&#39;s blog.</subtitle>
+  <subtitle>Valerian&#39;s blog.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://INF-EvenYang.github.io/"/>
+  <link href="http://ValerianYang.github.io/"/>
   <updated>2019-07-12T01:45:48.708Z</updated>
-  <id>http://INF-EvenYang.github.io/</id>
+  <id>http://ValerianYang.github.io/</id>
   
   <author>
-    <name>Even Yang</name>
+    <name>Valerian Yang</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://INF-EvenYang.github.io/2019/07/12/hello-world/"/>
-    <id>http://INF-EvenYang.github.io/2019/07/12/hello-world/</id>
+    <link href="http://ValerianYang.github.io/2019/07/12/hello-world/"/>
+    <id>http://ValerianYang.github.io/2019/07/12/hello-world/</id>
     <published>2019-07-12T01:45:48.708Z</published>
     <updated>2019-07-12T01:45:48.708Z</updated>
     
